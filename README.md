@@ -4,6 +4,6 @@ If you structured your code well enough, no changes will even be needed!.
 
 
 ##BONUS: Santa gives you an extra point for being a good developer! 
-Create a branch bonus, and change the game so that:
+Create a branch bonus (from your sprint2 solution), and change the game so that:
 - the game doesn't move to the next question until the user replies correctly
 - if the user choses the wrong answer is penalised with a point (-1)
